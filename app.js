@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 //JS Way
 
 // let el=document.createElement("h1");
